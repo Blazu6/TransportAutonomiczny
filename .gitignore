@@ -1,0 +1,12 @@
+# Pliki wideo (za duże na GitHub)
+*.mp4
+
+# Modele YOLO
+*.pt
+
+# Cache Pythona
+__pycache__/
+*.pyc
+
+# Dataset (za duży na GitHub)
+dataset_stereo/
